@@ -1,4 +1,4 @@
-## CODSOFT Python Programming Internship
+## CODSOFT TASKS
 
 # Task 1 - To-Do List
 A Python application to manage daily tasks.
